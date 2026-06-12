@@ -1,34 +1,23 @@
 # Alfonso Digital Lab
 
-Digital tools developed by Alfonso C. Rodríguez Fernández-Peña
-(University of Oviedo).
+Open-access linguistic technologies for research, teaching and knowledge transfer.
 
-## Open Access Applications
-
-This repository hosts digital tools and applications related to:
-
-- English Phonetics and Phonology
-- Forensic Linguistics and Forensic Phonetics
-- Translation and Localization
-- Artificial Intelligence and Language Technologies
-- Corpus Linguistics
-- Teaching Innovation
-
-## Current Projects
+## Applications
 
 ### PhonoPitch Lab
+
 Real-time pitch tracking and phonetics teaching tool.
 
-
-### Forensic Phonetics Toolkit
-Tools for speaker comparison and forensic phonetic analysis.
+Launch:
+https://alfonsospain.github.io/alfonso-digital-lab/phonopitch-lab/
 
 ## Author
 
-Alfonso Rodríguez Fernández-Peña  
+Alfonso C. Rodríguez Fernández-Peña
+
 Department of English, French and German Philology  
 University of Oviedo
 
 ## License
 
-This repository contains open-access academic software and resources.
+MIT License
